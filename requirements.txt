@@ -1,0 +1,3 @@
+twilio
+py-cord
+requests

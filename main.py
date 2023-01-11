@@ -4,8 +4,6 @@ from dotenv import load_dotenv
 from datetime import datetime
 from discord.ext import commands, tasks
 import discord
-from discord.commands import Option
-from discord.ext.commands import cooldown, BucketType
 from twilio.rest import Client
 
 load_dotenv()
